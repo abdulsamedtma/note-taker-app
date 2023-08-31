@@ -1,10 +1,31 @@
-# Note Taker App - Using Express.js
+<h1 align="center"> Note Taker App Using Express.js 👋</h1>
+  
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/-node.js-green" />
+    <img src="https://img.shields.io/badge/-bootstrap-red" >
+    <img src="https://img.shields.io/badge/-json-orange" />
+    <img src="https://img.shields.io/badge/inquirer-green" />
+</p>
 
 ## Description
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Note Taker is a user-centric note-taking application designed to cater to the specific needs of small business owners. This app simplifies the process of capturing ideas, managing tasks, and staying organized in the dynamic world of entrepreneurship. With its intuitive interface and essential features, Note Taker becomes an indispensable tool for boosting productivity.
 
-## Key Summary features of this project include:
+## Table of Contents
+
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Key Summary Features of this App ](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [Questions](#questions)
+
+## Key Summary Features of this App:
 
 Here are the key features of a Note Taker App using Express.js summarized in 6 bullet points:
 
@@ -62,7 +83,26 @@ To install and use the README generator program, follow these steps:
 
 By following these steps, you'll successfully install and use the README generator program to create a well-structured and informative README for your projects..
 
+![Alt text](images/npm-i-installation.png)
+
 ## Usage.
+
+Click: <a href="https://infinite-mountain-24670-2ef6ad90cbe3.herokuapp.com"> Note Taker App</a>
+
+It will launch the app on your browser ready for use !
+
+![Alt text](images/get-started-page.png)
+
+![Alt text](images/added-notes.png)
+
+![Alt text](images/delete-note.png)
+
+## Testing
+
+💻
+Once all the packages have been installed, open terminal and run the following code in command line :
+node server.js
+This will run the server where you can find the page on localhost:3001. To end your server in your terminal type: control + c
 
 ## Credit
 
@@ -70,25 +110,25 @@ N/A.
 
 ## License
 
-MIT License
-
-Copyright (c) 2023 abdulsamedtma
+NOTICE: This application is covered under the MIT License
 
 ## Permission is hereby granted, free of charge, to any person obtaining a copy
 
-## Features
-
-The features of the README generator you provided include:
-
 ## How to Contribute
 
-Contributing to the project is easy. First, fork the project's repository on GitHub to create your copy. Clone this copy to your computer, create a new branch for your changes, and make improvements to the code. After committing your changes and pushing them to your fork, initiate a pull request back to the original repository. Engage in discussions with the maintainers and other contributors to refine your changes if needed. Once approved, your updates will be merged into the main project, making you a valued contributor. Following the project's guidelines and being open to collaboration will ensure your contributions enhance the project's functionality and impact
+Open to collaboration, if you choose to do so open an issue and modify any changes you would like to see on a feature branch and wait for approval before merging to the main branch.
 Contributions are always welcome! But please read the contribution guidelines first on [Contributor Covenant](https://www.contributor-covenant.org/).
 
-## Test
+## Questions
 
-Repository URL : https://
+Have additional questions? Click the links below to reach me through my GitHub account or Email address.
 
-Walkthrough video URL :
+[Link to Github](https://github.com/abdulsamedtma)
 
-                  This README was generated with ❤️ by README Generator. ✨  Every day is a learning day!  ✨
+<a href="mailto:abdulsamedtma@gmail.com">Connect with Abdul via Email</a>
+
+Click: <a href = "https://github.com/abdulsamedtma/note-taker-app"> Repository URL </a>
+
+Click: <a href="https://infinite-mountain-24670-2ef6ad90cbe3.herokuapp.com"> Deployed App on HEROKU </a>
+
+                  This Note Taker App was created with ❤️ by Abdul. ✨  Every day is a learning day!  ✨

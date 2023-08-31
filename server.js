@@ -6,7 +6,7 @@ const path = require("path");
 const app = express();
 
 // Sets an initial port.
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 // Use express to create a route for each file in the public folder and give it a '/' path
 app.use(express.static("public"));
